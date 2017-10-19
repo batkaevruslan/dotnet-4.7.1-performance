@@ -3,3 +3,7 @@
 ################################################################################
 
 /StackTracePerformance/bin/Debug
+/StackTracePerformance/obj/Debug
+/.vs
+/StackTracePerformance.sln.DotSettings.user
+/StackTracePerformance/obj/Release
